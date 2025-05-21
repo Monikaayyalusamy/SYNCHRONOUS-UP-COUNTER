@@ -59,16 +59,20 @@ RegisterNumber:212224240094
 */
 
 **RTL LOGIC UP COUNTER**
-![image](https://github.com/user-attachments/assets/8b9b5ccb-aa16-406d-8ca3-c87f19d307d3)
+
+![image](https://github.com/user-attachments/assets/82a6a08d-3db4-45fb-929d-bb6a6a923df4)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![image](https://github.com/user-attachments/assets/fa00eeef-a754-4b4f-a2f3-f2c7d410b3c0)
+
+![image](https://github.com/user-attachments/assets/32121ceb-61ab-40cb-b7ac-72e9d8e604dd)
 
 
 **TRUTH TABLE**
-![image](https://github.com/user-attachments/assets/69a5ed81-84a4-4e5b-b30b-48b901874a0f)
+
+![image](https://github.com/user-attachments/assets/3867818f-7d72-4a4c-8683-e465a683bb49)
 
 
 **RESULTS**
+
 Thus the given 4 bit synchronous up counters are implimented and validated functionality are verified in Quartus II using verilog programming.
